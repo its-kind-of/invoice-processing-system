@@ -1,0 +1,15 @@
+langchain 
+langsmith 
+openai 
+tiktoken 
+pydantic
+pdfplumber 
+pytesseract 
+pillow
+pandas 
+numpy 
+matplotlib
+fastapi 
+uvicorn
+chromadb  # or another vector DB
+python-dotenv
