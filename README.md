@@ -25,7 +25,7 @@ It is a **practical automation system** optimized for predictability, auditabili
 
 A detailed consulting-style case study is available here:
 
-➡️ **[case-study_invoice-automation_hybrid-ai.md](case-study_invoice-automation_hybrid-ai.md)**
+**[case-study_invoice-automation_hybrid-ai.md](case-study_invoice-automation_hybrid-ai.md)**
 
 The case study covers:
 - Business context and constraints
@@ -40,11 +40,11 @@ The case study covers:
 
 High-level system architecture and design rationale:
 
-➡️ **[architecture.md](architecture.md)**
+**[architecture.md](architecture.md)**
 
 ---
 
-## 🖼 Screenshots
+## Screenshots
 
 Example UI and batch processing outputs are available in the `screenshots/` directory.
 
